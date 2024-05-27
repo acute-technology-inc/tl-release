@@ -1,6 +1,6 @@
 # TravelLogic Software (Linux Release)
 
-Public release of TravelBus software for Acute's TravelLogic products.
+Public release of TravelLogic software for Acute's TravelLogic products.
 
 ## Supported Models
 
